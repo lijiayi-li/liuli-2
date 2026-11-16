@@ -1,0 +1,4 @@
+const CONTENT={id:'yellow',name:'鸡油黄',core:true,enabled:true,hall:'新辉厅',locationTitle:'新辉厅，找这抹黄',locationGuide:'对照照片：左侧找编钟，上方看展板。',crowdHint:'人多看不清？用照片帮帮忙。',images:{location:'assets/yellow-location.jpg?v=20261116-31',bell:'assets/yellow-bell.jpg?v=20261116-31',display:'assets/yellow-display.jpg?v=20261116-31',panel:'assets/yellow-panel.jpg?v=20261116-31'},alt:'黄色琉璃编钟',title:'这抹黄，叫什么？',intro:'看看左侧编钟，哪个名字像它？',question:'认个名字吧',options:['鸡油黄','柠檬黄','琥珀黄'],clueTitle:'↑ 抬头看展板',clue:'大字找名字，小字找缘由。',directCorrect:'答对了！这是鸡油黄。',correct:'找到了！它叫鸡油黄。',correctDetail:'展板说：色泽像鸡油，名字就这么来啦！',wrong:'再看看展柜上方的介绍牌，答案就在那三个大字里。',material:'镉黄',elements:[],knowledgeTitle:'什么是着色材料？',knowledge:['制作时，帮助琉璃形成颜色的材料。','研究记载：现代博山鸡油黄琉璃，可用镉黄着色。','配方、熔炼条件不同，颜色也会不同。'],note:'工艺知识 ≠ 这件展品的成分检测结果。',sources:['《地方性工艺文化产业研究——以山东博山“鸡油黄”琉璃为例》，正文第60—61页。','《山东博山琉璃的色彩美学与技艺传承研究》'],panelBounds:null};
+const OTHER_COLORS=[];
+
+
